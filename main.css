@@ -1,0 +1,13 @@
+
+
+header{
+    text-align: center;
+}
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+img{
+    width: 30%;
+    height: auto;
+}
